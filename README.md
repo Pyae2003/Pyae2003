@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m Pyae Khant.
+- 👀 I’m interested in Computer Science, backend enginnering,cloud computing, Security Stuff etc..
+- 🌱 I’m currently learning Programming at UCSM(University of Computer Studies, Mandalay)(COE).
+- 📫 How to reach me .
 
 <!--
 **Pyae2003/Pyae2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
